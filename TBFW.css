@@ -1,0 +1,42 @@
+
+.mother
+{color: #800;}
+.wrong
+{font-weight:bold;
+	color: #c0392b;
+text-decoration: underline;
+}
+.min
+{font-size: .4em;}
+.multi
+{color: rgb;
+font-weight: 700}
+.sh
+{color: blue}
+.vio
+{color: violet}
+body{
+	font-family: Open Sans, Arial;
+	color: #454545;
+	font-size: 16px;
+	margin: 2em auto;
+	max-width: 800px;
+	padding: 1em;
+	line-height: 1,4;
+	text-align: justify
+
+}
+.flottant
+{float: left;
+height: 320px,212px}
+.autreparagraphe
+{
+	clear: left;
+}
+.color: {
+	color: red;
+}
+a:link{color: red;}
+img.center{display: block;margin-left: auto;margin-right: auto;text-align: }
+p
+{text-align: justify;}
